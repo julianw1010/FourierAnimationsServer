@@ -1,0 +1,9 @@
+{
+  "name": "fourier-animations-server",
+  "version": "0.0.0",
+  "description": "FourierAnimationsServer",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
